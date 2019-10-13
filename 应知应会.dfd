@@ -1,0 +1,33 @@
+[General]
+Version=1.0
+[ScanPaths]
+ScanPath0=C:\?1
+ScanPath1=D:\?1
+ScanPath2=E:\?1
+ScanPath3=F:\?1
+ScanPath4=G:\?1
+ScanPath5=H:\?1
+ScanPath6=I:\?1
+[ExcludedPaths]
+ScanPath0=C:\Windows?1
+ScanPath1=C:\Program Files (x86)?1
+ScanPath2=C:\Windows\system32?1
+ScanPath3=C:\Users\Administrator\AppData\Local\Microsoft\Windows\Temporary Internet Files?1
+[FilterCriteria]
+SearchMask=*.*
+MasksCaseSensitive=0
+SearchSystemFolders=0
+SearchHiddenFilesFolders=0
+SkipZeroLengthFiles=1
+SearchSubFolders=1
+SizeMatchType=0
+FileSizeKb=0
+DateMatchType=0
+FromTime=1543283933
+ToTime=1543283933
+[FileMatchOptions]
+MatchFileNames=1
+MatchFileSizes=1
+MatchLastMod=0
+MatchContents=1
+MatchHashType=0
